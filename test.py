@@ -5,7 +5,4 @@
 import time
 
 
-while True:
-	print '111111111111111111111111111111111111'
-
-	time.sleep(5)
+print('21312312312')
